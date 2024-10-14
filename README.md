@@ -13,4 +13,4 @@ William Frasier
 
 ## Map Coordinate Basics
 
-- [Understanding map coordinates](https://github.com/jiashenyue/geo441-541/blob/main/map-coordinates-basics/understanding-coordinates.ipynb)
+- [Understanding map coordinates](map-coordinates-basics/GEO441b_in_class_exercise_lat_lon_calc.ipynb)
