@@ -14,3 +14,10 @@ William Frasier
 ## Map Coordinate Basics
 
 - [Understanding map coordinates](map-coordinates-basics/GEO441b_in_class_exercise_lat_lon_calc.ipynb)
+
+## 3D Projection
+
+- [3D Projection in ArcGIS](3D Projection in ArcGIS/week_11_assignment_template.ipynb)
+
+## Census Data
+- [Utilizing Census Data](Utilizing Census Data/week_12_assignment_template.ipynb)
