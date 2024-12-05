@@ -21,3 +21,9 @@ William Frasier
 
 ## Census Data
 - [Utilizing Census Data](https://github.com/wfrasier1/gis-project-portfolio-geo441-541b/blob/a68a4a6cb47b0be2bf490d77ba4d4368f7605b8f/Utilizing%20Census%20Data/week_12_assignment_template.ipynb)
+
+## Builing Buffers
+- [Building Buffers](https://github.com/wfrasier1/gis-project-portfolio-geo441-541b/blob/a68a4a6cb47b0be2bf490d77ba4d4368f7605b8f/Utilizing%20Census%20Data/week_12_assignment_template.ipynb)
+
+## Topography & Elevation Maps
+- [Topography & Elevation Maps](https://github.com/wfrasier1/gis-project-portfolio-geo441-541b/blob/a68a4a6cb47b0be2bf490d77ba4d4368f7605b8f/Utilizing%20Census%20Data/week_12_assignment_template.ipynb)
